@@ -1,9 +1,9 @@
 This is Python version 3.15.0 alpha 6
 =====================================
 
-.. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
+.. image:: https://github.com/Unity-Billal-mesloub/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
    :alt: CPython build status on GitHub Actions
-   :target: https://github.com/python/cpython/actions
+   :target: https://github.com/Unity-Billal-mesloub/cpython/actions
 
 .. image:: https://dev.azure.com/python/cpython/_apis/build/status/Azure%20Pipelines%20CI?branchName=main
    :alt: CPython build status on Azure DevOps
@@ -24,8 +24,8 @@ General Information
 -------------------
 
 - Website: https://www.python.org
-- Source code: https://github.com/python/cpython
-- Issue tracker: https://github.com/python/cpython/issues
+- Source code: https://github.com/Unity-Billal-mesloub/cpython
+- Issue tracker: https://github.com/Unity-Billal-mesloub/cpython/issues
 - Documentation: https://docs.python.org
 - Developer's Guide: https://devguide.python.org/
 
@@ -71,13 +71,13 @@ dependencies for various Linux distributions and macOS.
 
 On macOS, there are additional configure and build options related
 to macOS framework and universal builds.  Refer to `Mac/README.rst
-<https://github.com/python/cpython/blob/main/Mac/README.rst>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/Mac/README.rst>`_.
 
 On Windows, see `PCbuild/readme.txt
-<https://github.com/python/cpython/blob/main/PCbuild/readme.txt>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/PCbuild/readme.txt>`_.
 
 To build Windows installer, see `Tools/msi/README.txt
-<https://github.com/python/cpython/blob/main/Tools/msi/README.txt>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/Tools/msi/README.txt>`_.
 
 If you wish, you can create a subdirectory and invoke configure from there.
 For example::
@@ -158,7 +158,7 @@ is primarily for documentation authors, translators, and people with special
 formatting requirements.
 
 For information about building Python's documentation, refer to `Doc/README.rst
-<https://github.com/python/cpython/blob/main/Doc/README.rst>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/Doc/README.rst>`_.
 
 
 Testing
@@ -224,7 +224,7 @@ rights reserved.
 
 Copyright © 1991-1995 Stichting Mathematisch Centrum.  All rights reserved.
 
-See the `LICENSE <https://github.com/python/cpython/blob/main/LICENSE>`_ for
+See the `LICENSE <https://github.com/Unity-Billal-mesloub/cpython/blob/main/LICENSE>`_ for
 information on the history of this software, terms & conditions for usage, and a
 DISCLAIMER OF ALL WARRANTIES.
 
