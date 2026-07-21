@@ -1,9 +1,9 @@
 This is Python version 3.16.0 alpha 0
 =====================================
 
-.. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
+.. image:: https://github.com/Unity-Billal-mesloub/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
    :alt: CPython build status on GitHub Actions
-   :target: https://github.com/python/cpython/actions
+   :target: https://github.com/Unity-Billal-mesloub/cpython/actions
 
 .. image:: https://dev.azure.com/python/cpython/_apis/build/status/Azure%20Pipelines%20CI?branchName=main
    :alt: CPython build status on Azure DevOps
@@ -13,19 +13,12 @@ This is Python version 3.16.0 alpha 0
    :alt: Python Discourse chat
    :target: https://discuss.python.org/
 
-
-Copyright © 2001 Python Software Foundation.  All rights reserved.
-
-See the end of this file for further copyright and license information.
-
-.. contents::
-
 General Information
 -------------------
 
 - Website: https://www.python.org
-- Source code: https://github.com/python/cpython
-- Issue tracker: https://github.com/python/cpython/issues
+- Source code: https://github.com/Unity-Billal-mesloub/cpython
+- Issue tracker: https://github.com/Unity-Billal-mesloub/cpython/issues
 - Documentation: https://docs.python.org
 - Developer's Guide: https://devguide.python.org/
 
@@ -71,13 +64,13 @@ dependencies for various Linux distributions and macOS.
 
 On macOS, there are additional configure and build options related
 to macOS framework and universal builds.  Refer to `Mac/README.rst
-<https://github.com/python/cpython/blob/main/Mac/README.rst>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/Mac/README.rst>`_.
 
 On Windows, see `PCbuild/readme.txt
-<https://github.com/python/cpython/blob/main/PCbuild/readme.txt>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/PCbuild/readme.txt>`_.
 
 To build Windows packages, see `PC/layout/README.md
-<https://github.com/python/cpython/blob/main/PC/layout/README.md>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/PC/layout/README.md>`_.
 
 If you wish, you can create a subdirectory and invoke configure from there.
 For example::
@@ -138,9 +131,9 @@ What's New
 We have a comprehensive overview of the changes in the `What's new in Python
 3.16 <https://docs.python.org/3.16/whatsnew/3.16.html>`_ document.  For a more
 detailed change log, read `Misc/NEWS
-<https://github.com/python/cpython/tree/main/Misc/NEWS.d>`_, but a full
+<https://github.com/Unity-Billal-mesloub/cpython/tree/main/Misc/NEWS.d>`_, but a full
 accounting of changes can only be gleaned from the `commit history
-<https://github.com/python/cpython/commits/main>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/commits/main>`_.
 
 If you want to install multiple versions of Python, see the section below
 entitled "Installing multiple versions".
@@ -158,7 +151,7 @@ is primarily for documentation authors, translators, and people with special
 formatting requirements.
 
 For information about building Python's documentation, refer to `Doc/README.rst
-<https://github.com/python/cpython/blob/main/Doc/README.rst>`_.
+<https://github.com/Unity-Billal-mesloub/cpython/blob/main/Doc/README.rst>`_.
 
 
 Testing
@@ -180,7 +173,7 @@ example, if ``test_os`` and ``test_gdb`` failed, you can run::
 
 If the failure persists and appears to be a problem with Python rather than
 your environment, you can `file a bug report
-<https://github.com/python/cpython/issues>`_ and include relevant output from
+<https://github.com/Unity-Billal-mesloub/cpython/issues>`_ and include relevant output from
 that command to show the issue.
 
 See `Running & Writing Tests <https://devguide.python.org/testing/run-write-tests.html>`_
@@ -211,25 +204,3 @@ Release Schedule
 See `PEP 826 <https://peps.python.org/pep-0826/>`__ for Python 3.16 release details.
 
 
-Copyright and License Information
----------------------------------
-
-
-Copyright © 2001 Python Software Foundation.  All rights reserved.
-
-Copyright © 2000 BeOpen.com.  All rights reserved.
-
-Copyright © 1995-2001 Corporation for National Research Initiatives.  All
-rights reserved.
-
-Copyright © 1991-1995 Stichting Mathematisch Centrum.  All rights reserved.
-
-See the `LICENSE <https://github.com/python/cpython/blob/main/LICENSE>`_ for
-information on the history of this software, terms & conditions for usage, and a
-DISCLAIMER OF ALL WARRANTIES.
-
-This Python distribution contains *no* GNU General Public License (GPL) code,
-so it may be used in proprietary projects.  There are interfaces to some GNU
-code but these are entirely optional.
-
-All trademarks referenced herein are property of their respective holders.
